@@ -1,6 +1,6 @@
 # Electrical Energy Conversion and Supply - Week 1
 
-<img src="C:\Users\const\Documents\GitHub\Electrical-Energy-Conversion-and-Supply\Week 1\images\Week 1 ver1.jpg" alt="Week 1 ver1" />
+<img src="[C:\Users\const\Documents\GitHub\Electrical-Energy-Conversion-and-Supply\Week 1\images\Week 1 ver1.jpg](https://github.com/HankinHuang/Electrical-Energy-Conversion-and-Supply/blob/main/Week%201/images/Week%201%20ver1.jpg)" alt="Week 1 ver1" />
 
 ## This unit (EENG20005) and Learning Outcomes
 
